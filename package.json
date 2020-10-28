@@ -1,0 +1,26 @@
+{
+  "name": "@sharcoux/stripe-cli",
+  "version": "1.5.3-0",
+  "description": "A npm package to wrap Stripe cli",
+  "main": "./stripe",
+  "scripts": {
+    "start": "./stripe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sharcoux/stripe-cli.git"
+  },
+  "keywords": [
+    "stripe",
+    "cli"
+  ],
+  "author": "fbillioud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharcoux/stripe-cli/issues"
+  },
+  "homepage": "https://stripe.com/docs/stripe-cli",
+  "bin": {
+    "create-rnweb": "index.sh"
+  }
+}
