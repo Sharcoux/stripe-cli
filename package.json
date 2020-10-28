@@ -1,6 +1,6 @@
 {
   "name": "@sharcoux/stripe-cli",
-  "version": "1.5.3-0",
+  "version": "1.5.3",
   "description": "A npm package to wrap Stripe cli",
   "main": "./stripe",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://stripe.com/docs/stripe-cli",
   "bin": {
-    "create-rnweb": "index.sh"
+    "stripe": "stripe"
   }
 }
